@@ -2,29 +2,29 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Poppins&display=swap');
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #2f3e46   ;
-  --secondary-color: #354f52 ;
-  --accent1-color: #52796f;
-  --accent2-color: #84a98c;
+  --primary-color: #CAD2C5;
+  --secondary-color: #84A98C;
+  --accent1-color: #52796F;
+  --accent2-color: #2F3E46;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "Bungee+Spice";
+  --heading-font: "Josefin Sans";
   --paragraph-font: Poppins, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #396E94;  /* headlines on a white background */ 
-  --headline-color-on-color: #9aafaa; /* headlines on a colored background */ 
+  --headline-color-on-color: #CAD2C5; /* headlines on a colored background */ 
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #84a98c; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #2f3e46  ;
-  --nav-link-color: #2f3e46;
-  --nav-background-color: #84a98c;
-  --nav-hover-link-color: #84a98c;
-  --nav-hover-background-color: #2f3e46;
+  --paragraph-color-on-color: #CAD2C5; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #2F3E46  ;
+  --nav-link-color: #CAD2C5;
+  --nav-background-color: #2F3E46;
+  --nav-hover-link-color: #2F3E46;
+  --nav-hover-background-color: #CAD2C5;
 }
 
 
