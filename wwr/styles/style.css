@@ -37,7 +37,7 @@ main section {
 
 body {
     background-color: #F3F6F7;
-    font-family: poppins, Arial, Helvetica, sans-serif;
+    font-family: "poppins", Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
 }
@@ -58,13 +58,13 @@ main section img {
     margin: 200px 0;}
 .home-title{
     color: #021518;
-    font-family: Josefin Sans, Arial, sans-serif;
+    font-family: "Josefin Sans", Arial, sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
 .msg h2 {
     color: #e2e7df;
-    font-family: Josefin Sans, Arial, sans-serif;
+    font-family: "Josefin Sans", Arial, sans-serif;
     margin: 0;
 
 }
