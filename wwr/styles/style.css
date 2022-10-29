@@ -36,6 +36,8 @@
 }
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
+    color: #ffffff;
+
 }
 .home-grid{
     display: grid;
@@ -132,7 +134,7 @@ nav a:hover {
     color: #011116;
 }
 .book, .join {
-    background-color: #354f52;
+    background-color: #00434b;
     color: #e2e7df;
     text-decoration: none;
     font-size: 18px;
