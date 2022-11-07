@@ -166,18 +166,25 @@ nav a:hover {
     box-shadow: 5px 5px 10px #6f7364;
 }
 
-/* .summer {
-    display: inline;
-    width: 80%;
+.blog_h1{
+    text-align: center;
+}
+#summer {
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
 }
 
-#blog_grid{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+.title_h1, .grid_card p, .title_h2{
+    padding: 0 70px;
+    margin: 0
 }
+
 
 .blog_img{
-    grid-column: 2/5;
+    padding: 0 70px;
+    width: 100%;
+    height: 500px;
 }
 
 .grid_card h2{
@@ -187,7 +194,7 @@ nav a:hover {
 .grid_card p{
     margin: 20px;
     text-align: center;
-} */
+} 
 
 footer {
     background-color: #354f52;
