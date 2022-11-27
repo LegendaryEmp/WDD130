@@ -137,7 +137,8 @@ body p{
     padding: 10px;
     padding-top: 50px;
 }
-p {font-size: 1.2em;}
+p {font-size: 1.2em;
+font-family: "Inter", Helvetica, sans-serif;}
 footer {
     background-color: #312d47;
     color: #e2e7df;
