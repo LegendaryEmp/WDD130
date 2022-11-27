@@ -24,7 +24,7 @@ Fonts are separated by a | */
   --nav-link-color: #312d47;
   --nav-background-color: #D4AC0D;
   --nav-hover-link-color: #fff;
-  --nav-hover-background-color: #312d47;
+  --nav-hover-background-color: #e0dfe7;
 }
 
 
@@ -37,6 +37,9 @@ Fonts are separated by a | */
   font-size: 18px;
   text-align: center;
 } */
+body {
+    background-color: #e0dfe7;
+}
 header {
     display: grid;
     grid-template-columns: 150px 180px auto;
