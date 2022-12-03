@@ -41,6 +41,7 @@ Fonts are separated by a | */
 
 body {
     background-color: #e0dfe7;
+    max-width: 1600px;
 }
 header {
     display: grid;
